@@ -1,16 +1,9 @@
-# SpringBoot_MariaDB and Swaager UI
+# SpringBoot_MariaDB and Vue.js(vue-cli)
 
-My practice for SpringBoot Restful Api with MariaDB ,
+Practice for SpringBoot Restful Api and Vue.js,
 
-create simple documents by swagger ui 
-
-
-透過 SpringBoot Restful api 對 mariadb 簡單操作
-
-並加上 swagger ui 填寫簡易文件
+create simple CRUD list
 
 <hr>
 
-Detail at Notion note / 詳細參照 Notion: 
-
-     https://kindly-phlox-236.notion.site/sample-SpringBoot-With-mariaDB-5945794e75c144c08dc15811cb233bbe
+Detail at Notion note :
